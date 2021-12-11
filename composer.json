@@ -1,11 +1,11 @@
 {
-    "name": "allotropia/fileslibreofficeedit",
-    "description": "Open files with LibreOffice for editing (via WebDav)",
+    "name": "BurningScript/filesofficeedit",
+    "description": "Open files with MS Office for editing (via WebDav)",
     "type": "project",
     "license": "AGPL",
     "authors": [
         {
-            "name": "allotropia software GmbH"
+            "name": "BurningScript"
         }
     ],
     "require": {},
