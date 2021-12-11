@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<info xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+    <id>filesofficeedit</id>
+    <name>Edit Files with Microsoft Office</name>
+    <summary>Open files with Microsoft Office for editing (via WebDav)</summary>
+    <description><![CDATA[This App is a modified version of "Edit Files via LibreOffice" by allotropia software GmbH. It adds a new context menu to supported Office-Files
+    to edit them directly in PowerPoint, Word or Excel without downloading and reuploading them via WebDAV.
+]]></description>
+    <version>1.0.0</version>
+    <licence>agpl</licence>
+    <author mail="erganzen@test.de" homepage="https://github.com/burningscript/editfileswithoffice">BurningScript</author>
+    <namespace>FilesOfficeEdit</namespace>
+    <category>files</category>
+    <category>office</category>
+    <website>https://github.com/burningscript/editfileswithoffice</website>
+    <bugs>https://github.com/burningscript/editfileswithoffice/issues</bugs>
+    <repository>https://github.com/burningscript/editfileswithoffice</repository>
+    <dependencies>
+        <nextcloud min-version="15" max-version="99"/>
+    </dependencies>
+</info>

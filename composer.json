@@ -1,0 +1,13 @@
+{
+    "name": "allotropia/fileslibreofficeedit",
+    "description": "Open files with LibreOffice for editing (via WebDav)",
+    "type": "project",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "allotropia software GmbH"
+        }
+    ],
+    "require": {},
+    "require-dev": {}
+}
