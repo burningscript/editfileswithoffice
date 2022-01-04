@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <info xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
       xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
-    <id>editfileswithoffice</id>
+    <id>filesofficeedit</id>
     <name>Edit Files with Microsoft Office</name>
     <summary>Open files with Microsoft Office for editing (via WebDav)</summary>
     <description><![CDATA[This App is a modified version of "Edit Files via LibreOffice" by allotropia software GmbH. It adds a new context menu to supported Office-Files
